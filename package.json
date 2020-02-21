@@ -1,0 +1,25 @@
+{
+  "name": "gc-express-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramona-Saintandre/GC-Express-lab1.git"
+  },
+  "author": "Ramona Saintandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramona-Saintandre/GC-Express-lab1/issues"
+  },
+  "homepage": "https://github.com/Ramona-Saintandre/GC-Express-lab1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "typescript": "^3.7.5",
+    "update": "^0.7.4"
+  }
+}
